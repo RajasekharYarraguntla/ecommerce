@@ -1,0 +1,5 @@
+.fixed-size-image {
+  width: 250px; /* Set fixed width */
+  height: 250px; /* Set fixed height */
+  object-fit: cover; /* Preserve aspect ratio and cover entire container */
+}
